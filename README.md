@@ -1,2 +1,2 @@
-Linux_log
-
+LINUX_LOG
+06-08 GitHub 이전에 올린 것들 사라져서 전부 다시 재업로드...
