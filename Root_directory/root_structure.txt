@@ -1,0 +1,37 @@
+/root
+├── apache_files_removal.sh
+├── git_cron_log.txt
+├── linux_log_20201021
+│   ├── autologin.txt
+│   ├── gitpushtest.txt
+│   ├── git_upload.sh
+│   ├── new_file2.txt
+│   ├── new_file3.txt
+│   ├── new_file.txt
+│   ├── readme.md
+│   ├── README.md
+│   ├── result_screenshot
+│   ├── Root_directory
+│   └── user_home_directory
+├── linux_log_20201021_broken
+│   ├── autologin.txt
+│   ├── gitpushtest.txt
+│   ├── git_upload.sh
+│   ├── git_upload.sh.save
+│   ├── new_file2.txt
+│   ├── new_file3.txt
+│   ├── new_file.txt
+│   ├── readme.md
+│   ├── README.md
+│   ├── result_screenshot
+│   ├── Root_directory
+│   └── user_home_directory
+├── newfile1
+├── newfile2.txt
+├── newfile3.txt
+├── new_file.txt
+├── snap
+│   └── snap-store
+└── vboxpostinstall.sh
+
+10 directories, 24 files

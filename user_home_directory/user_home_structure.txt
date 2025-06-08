@@ -1,0 +1,57 @@
+/home/guest
+├── 2025-05-29-ZAP-Report-
+│   ├── normalize
+│   ├── themes
+│   └── zap32x32.png
+├── 2025-05-29-ZAP-Report-.html
+├── apache_files_removal.sh
+├── backup_web.sh
+├── copyfile.txt
+├── Desktop
+│   ├── KakaoTalk.desktop
+│   ├── mem_test.sh
+│   ├── net_ex.sh
+│   ├── net_test.sh
+│   └── winehq.key
+├── Documents
+├── Downloads
+│   ├── 13151B114AE7E3A025.zip
+│   ├── KakaoTalk_Setup.exe
+│   └── ZAP_2_16_1_unix.sh
+├── example
+│   ├── hnnewfile3.txt
+│   ├── lnnewfile3.txt -> newfile1.txt
+│   └── newfile1.txt
+├── kakaotalk
+│   └── KakaoTalk
+├── modules.txt
+├── Music
+├── new_disk
+├── permission
+├── permission.txt
+├── Pictures
+├── Public
+├── shared
+│   ├── CopyFile.c
+│   ├── key.text.txt
+│   ├── putty.exe
+│   ├── source
+│   ├── zombie_process1.c
+│   └── zombie_process2.sh
+├── shell_logs
+│   ├── git_upload.sh
+│   ├── new_file2.txt
+│   ├── new_file3.txt
+│   ├── new_file.txt
+│   └── readme.md
+├── snap
+│   └── snap-store
+├── Templates
+├── test.sh
+├── umask_027
+├── umask_027.txt
+├── Videos
+├── wordpress
+└── wordpress-6.8-ko_KR.zip
+
+23 directories, 31 files
